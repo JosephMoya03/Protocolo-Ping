@@ -1,0 +1,17 @@
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.AssemblyInfo.cs
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\bin\Debug\net6.0\Protocolo Ping.exe
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\bin\Debug\net6.0\Protocolo Ping.deps.json
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\bin\Debug\net6.0\Protocolo Ping.runtimeconfig.json
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\bin\Debug\net6.0\Protocolo Ping.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\bin\Debug\net6.0\Protocolo Ping.pdb
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\bin\Debug\net6.0\SharpSnmpLib.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.csproj.CopyComplete
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\refint\Protocolo Ping.dll
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.pdb
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\Protocolo Ping.genruntimeconfig.cache
+C:\Users\josep\Desktop\Universidad\Practica\Protocolo Ping\obj\Debug\net6.0\ref\Protocolo Ping.dll

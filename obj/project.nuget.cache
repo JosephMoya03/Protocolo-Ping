@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "++bXSlTZZWEq4zZsvBqH1HZAr+Q8DJ0b7XnRM0cBUkU91hXdSC3vYLNNYqydkEngBHxwayMVyx1khGABrmtE3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josep\\Desktop\\Universidad\\Practica\\Protocolo Ping\\Protocolo Ping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\lextm.sharpsnmplib\\12.5.2\\lextm.sharpsnmplib.12.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
